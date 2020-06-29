@@ -34,7 +34,6 @@ public class SGD285_1
     {
         UserQuote[] userQuotes = new UserQuote[]
 	    {
-           new UserQuote("Jabril Washington", "The more things change, the more they stay the same. - General Shepard"),
            new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"),
 	       new UserQuote("Ryan Douglass", "If there is no struggle there is no progress. - Frederick Douglass"),
 	       new UserQuote("Baylen Smith", "Whatever happens, happens. - Spike Spiegel"),
@@ -65,7 +64,7 @@ public class SGD285_1
            new UserQuote("This is a Test", "Something witty is supposed to go here = Me"),
 	       new UserQuote("Adam Seymour", "Lift itself is only a vision, a dream. nothing exists except empty space, and you. And you are but a thought - Mark Twain Mysterious stranger"),
            new UserQuote("Teresa Widmer", "Terry, you of all people should know, in your hotel, there's always someone watching. -Tess Ocean"),
-           
+           new UserQuote("Jabril Washington","the more things change, the more they stay the same. -General shepard"),
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
